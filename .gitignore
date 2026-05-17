@@ -1,0 +1,49 @@
+# Plan and Documentation Files
+paln.md
+plan.md
+*.plan
+PLAN.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Output and Results
+output/
+*.csv
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
